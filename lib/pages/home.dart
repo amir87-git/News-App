@@ -249,7 +249,8 @@ class CategoryTile extends StatelessWidget {
   }
 }
 
-class BlogTile extends StatelessWidget {
+class BlogT
+ile extends StatelessWidget {
   String imageUrl, title, desc, url;
   BlogTile({required this.desc, required this.imageUrl, required this.title, required this.url});
 
